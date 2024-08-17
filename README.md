@@ -6,7 +6,7 @@
 
 #### Objectives
 
-1. **Customer Performance Report:** Create a comprehensive customer performance report to analyze customer activities and performance. [View Report](https://github.com/ShrutiMishra2003/Excel-Sales-Finance-Analytics/blob/main/Customer_Performance_Report.pdf)
+1. **Customer Performance Report:** Created a comprehensive customer performance report to analyze customer activities and performance. [View Report](https://github.com/ShrutiMishra2003/Excel-Sales-Finance-Analytics/blob/main/Customer_Performance_Report.pdf)
    
 2. **Market Performance vs. Sales Targets:** Conduct an in-depth comparison between market performance and sales targets to identify gaps and opportunities. [View Report](https://github.com/ShrutiMishra2003/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance.pdf)
 
